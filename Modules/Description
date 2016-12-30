@@ -2,3 +2,4 @@ There are 3 modules here: Preprocessing, Transmission and Receiving.
 The Preprocessing module resizes video of any quality to a fixed resolution of 512 X 256
 The Transmission module separates the audio file and splits the video into frames. Run Length Encoding is applied on these frames for spatial and Temporal Compression.
 The Receiving module is for the receivers end where the data from the Transmission section is decompressed and the video file is obtained.
+A sample video is already provided. Check out the media section to see the intermediate files.
