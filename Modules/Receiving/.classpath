@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jave"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-2.4.13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xuggler_with_dependencies"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
